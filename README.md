@@ -91,7 +91,7 @@ streamlit run app.py
 
 - 📁 **GitHub**: [GitHub](https://github.com/carretejv/projeto-ecommerce)
 - 🌐 **GitHub Pages**: [GitHub Pages](https://carretejv.github.io/projeto-ecommerce/)
-- 📊 **Streamlit**: [Dashboard Streamlit]([https://seu-app.streamlit.app](https://carretejv.github.io/projeto-ecommerce/)
+- 📊 **Streamlit**: [Dashboard Streamlit](https://seu-app.streamlit.app)
 
 ---
 
