@@ -89,9 +89,9 @@ streamlit run app.py
 
 ## 🔗 Links
 
-- 📁 **GitHub**: [github.com/SEU_USUARIO/projeto-ecommerce](https://github.com/SEU_USUARIO/projeto-ecommerce)
-- 🌐 **GitHub Pages**: [SEU_USUARIO.github.io/projeto-ecommerce](https://SEU_USUARIO.github.io/projeto-ecommerce)
-- 📊 **Streamlit**: [seu-app.streamlit.app](https://seu-app.streamlit.app)
+- 📁 **GitHub**: [github.com/SEU_USUARIO/projeto-ecommerce](https://github.com/carretejv/projeto-ecommerce)
+- 🌐 **GitHub Pages**: [SEU_USUARIO.github.io/projeto-ecommerce](https://carretejv.github.io/projeto-ecommerce/)
+- 📊 **Streamlit**: [Dashboard Streamlit]([https://seu-app.streamlit.app](https://carretejv.github.io/projeto-ecommerce/))
 
 ---
 
@@ -112,4 +112,4 @@ Dataset simulado com **4.440 registros** e **16 colunas** cobrindo vendas de 201
 
 ---
 
-*Projeto desenvolvido para fins acadêmicos.*
+Projeto G2 · Tema 13 — Vendas em E-commerce no Brasil
