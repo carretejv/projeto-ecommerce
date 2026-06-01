@@ -355,5 +355,6 @@ Com base na análise do período selecionado, destacam-se os seguintes achados:
 - O crescimento consistente do faturamento ao longo dos anos confirma a expansão do e-commerce como canal estratégico no Brasil.
 
 > *Este painel foi desenvolvido como projeto acadêmico da disciplina de Linguagem de Programação — Análise e Visualização de Dados com Python.*
+> 
 > *João Victor Carrete*
 """)
